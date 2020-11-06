@@ -12,6 +12,7 @@ namespace HuvudMeny
             Console.InputEncoding = Encoding.Unicode;
             Menu menu = new Menu();
             menu.MainMenu();
+            Console.WriteLine("Hej");
         }
     }
 }

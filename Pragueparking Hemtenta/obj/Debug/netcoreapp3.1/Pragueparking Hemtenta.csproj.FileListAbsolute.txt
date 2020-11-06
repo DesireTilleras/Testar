@@ -1,0 +1,26 @@
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\bin\Debug\netcoreapp3.1\Pragueparking Hemtenta.exe
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\bin\Debug\netcoreapp3.1\Pragueparking Hemtenta.deps.json
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\bin\Debug\netcoreapp3.1\Pragueparking Hemtenta.runtimeconfig.json
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\bin\Debug\netcoreapp3.1\Pragueparking Hemtenta.runtimeconfig.dev.json
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\bin\Debug\netcoreapp3.1\Pragueparking Hemtenta.dll
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\bin\Debug\netcoreapp3.1\Pragueparking Hemtenta.pdb
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.csprojAssemblyReference.cache
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.AssemblyInfoInputs.cache
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.AssemblyInfo.cs
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.csproj.CoreCompileInputs.cache
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.dll
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.pdb
+C:\Users\desir\Documents\Kursen Programmmering C#\Pragueparking Hemtenta\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.genruntimeconfig.cache
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\bin\Debug\netcoreapp3.1\Pragueparking Hemtenta.exe
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\bin\Debug\netcoreapp3.1\Pragueparking Hemtenta.deps.json
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\bin\Debug\netcoreapp3.1\Pragueparking Hemtenta.runtimeconfig.json
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\bin\Debug\netcoreapp3.1\Pragueparking Hemtenta.runtimeconfig.dev.json
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\bin\Debug\netcoreapp3.1\Pragueparking Hemtenta.dll
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\bin\Debug\netcoreapp3.1\Pragueparking Hemtenta.pdb
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.csprojAssemblyReference.cache
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.AssemblyInfoInputs.cache
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.AssemblyInfo.cs
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.csproj.CoreCompileInputs.cache
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.dll
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.pdb
+C:\Users\desir\Documents\Kursen Programmmering C#\TentamenCsharp_Desire_Tillerås_MUT20\Pragueparking Hemtenta\obj\Debug\netcoreapp3.1\Pragueparking Hemtenta.genruntimeconfig.cache
